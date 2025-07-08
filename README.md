@@ -16,6 +16,24 @@ To build an AI-powered system that assists students in identifying suitable care
 
 - Final Recommendation Page for careers based on scores
 
+### ML Algorithms
+- XG Boost
+- Random Forest
+- ANN (MLP Classifier)
+
+### To Run The Project
+- git clone https://github.com/Dunringmui/AI-Driven-Career-Recommendation-System.git
+cd AI-Driven-Career-Recommendation-System/career_recommendation_project
+
+- pip install -r requirements.txt
+
+- pip install streamlit pandas numpy scikit-learn joblib
+
+- python career_predictor.py
+
+- streamlit run app.py
+
+
 ### Benefits
 - Helps students discover careers aligned with their cognitive and personality traits
 
